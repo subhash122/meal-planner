@@ -1,0 +1,16 @@
+.custom-calendar {
+    /* font-size:2em; */
+    /* Adjust font size for bigger display */
+}
+
+.custom-day-button {
+    width: 100%;
+    /* Ensure button takes up entire tile */
+    height: 100%;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.pointer{
+    cursor: grab;
+}

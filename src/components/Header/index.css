@@ -1,0 +1,13 @@
+.Header {
+    top: 0; /* Stick it to the top */
+    max-height: 50px;
+    width: 99vw;
+  
+    display: flex;
+    justify-content: space-between;
+    grid-template-areas: "logo nav";
+  
+    /* Cosmetics */
+    background-color: #575758;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
